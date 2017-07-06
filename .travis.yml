@@ -6,9 +6,9 @@ python:
     - "3.3"
     - "3.4"
 
-install:
-    - pip install -r requirements.txt
-    
+# removed command to install dependencies
+
+# command to run test
 script: pytest
 
 
