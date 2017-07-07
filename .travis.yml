@@ -7,6 +7,7 @@ python:
     - "3.4"
 
 # removed command to install dependencies
+install: true
 
 # command to run test
 script: pytest
